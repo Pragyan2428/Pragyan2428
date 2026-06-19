@@ -1,8 +1,10 @@
-<h1 align="center">Hey there, I'm Pragyan Singh 👋</h1>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0e75b6&center=true&vCenter=true&width=500&lines=Hey+there,+I'm+Pragyan+Singh+👋;Electronics+%26+CS+Undergrad+@+KIIT;Full+Stack+Dev+Intern+@+YHills;GSSoC+'26+Contributor" />
+</h1>
 
-<p align="center">
-  <em>Electronics & Computer Science Undergraduate @ KIIT · Full Stack Dev Intern @ YHills · GSSoC '26 Contributor</em>
-</p>
+<!-- Animated Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=header" />
 
 <p align="center">
   <a href="https://github.com/Pragyan2428">
@@ -28,32 +30,9 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-
-**Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-**Creative Tools**
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=flat&logo=davinciresolve&logoColor=white)
-![Filmora](https://img.shields.io/badge/Filmora-00ADEF?style=flat)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,mongodb,postgres,aws,git,github,vscode&theme=dark" />
+</p>
 
 ---
 
@@ -81,7 +60,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragyan2428&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragyan2428&theme=react-dark&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
@@ -103,18 +82,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-<!-- HOW TO ADD YOUR PROJECTS:
-  Copy and paste this block for each project and fill in the details.
-
-  ### 📌 Project Name
-  > One-line description of what it does and the problem it solves.
-  - 🔗 [Live Demo](https://your-live-link.com) | [GitHub Repo](https://github.com/Pragyan2428/your-repo)
-  - 🛠️ Built with: `React` `Node.js` `MongoDB`
-
-  TIP: Also go to github.com/Pragyan2428 → "Customize your profile" → Pin up to 6 repos.
-  They'll show as cards directly on your profile page!
--->
 
 ### 📌 [Project Name — add yours here]
 > Description coming soon.
@@ -150,7 +117,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/pragyansinghkiit/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -167,5 +134,12 @@
 
 ---
 
-<p align="center">✨ <em>"Build. Learn. Contribute. Repeat."</em> ✨</p>
+<!-- Animated Footer Quote -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&width=600&lines=✨+Build.+Learn.+Contribute.+Repeat.+✨" />
+</p>
+
 <p align="center">⭐️ If you find something useful, consider starring a repo!</p>
+
+<!-- Bottom Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />

@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0e75b6&center=true&vCenter=true&width=500&lines=Hey+there,+I'm+Pragyan+Singh+👋;Electronics+%26+CS+Undergrad+@+KIIT;Full+Stack+Dev+Intern+@+YHills;GSSoC+'26+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=0e75b6&center=true&vCenter=true&width=500&lines= Hey+there,+I'm+Pragyan+Singh+👋;Electronics+%26+CS+Undergrad+@+KIIT;Full+Stack+Dev+Intern+@+YHills;GSSoC+'26+Contributor" />
 </h1>
 
 <!-- Animated Wave Divider -->

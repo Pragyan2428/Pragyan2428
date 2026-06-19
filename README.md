@@ -1,241 +1,171 @@
-<!-- ================= HERO ================= -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0E75B6,100:6A5ACD&text=Pragyan%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+# Pragyan Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Electronics+%26+Computer+Science+Student;Full+Stack+Developer;Open+Source+Contributor;GSSoC+'26+Contributor;Building+Impactful+Projects+Every+Day;Always+Learning+Something+New" />
+### Electronics & Computer Science Undergraduate • Full Stack Developer • Open Source Contributor
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Open+Source+Contributor;Full+Stack+Developer;Always+Learning+and+Shipping" />
 
----
-
-<div align="center">
-
-<a href="https://github.com/Pragyan2428">
-<img src="https://img.shields.io/github/followers/Pragyan2428?style=for-the-badge&logo=github&color=0E75B6"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Pragyan2428&style=for-the-badge&color=0E75B6"/>
-
-<a href="https://github.com/Pragyan2428">
-<img src="https://img.shields.io/github/stars/Pragyan2428?style=for-the-badge&logo=github&color=0E75B6"/>
-</a>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-```yaml
-name: Pragyan Singh
-
-education:
-  degree: B.Tech Electronics & Computer Science
-  university: KIIT University
-  year: 2024-2028
-
-current_roles:
-  - Full Stack Web Developer Intern @ YHills
-  - Open Source Contributor @ GSSoC '26
-  - Team Lead (Video) @ K-1000
-
-currently_learning:
-  - MERN Stack
-  - Cloud Technologies
-  - AI Agents
-  - System Design
-
-location: India 🇮🇳
-```
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" />
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman&theme=dark" />
-
-</div>
-
----
-
-# 🚀 Developer Metrics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pragyan2428&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Pragyan2428&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyan2428&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pragyan2428&theme=algolia&column=7&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pragyan2428&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Pragyan2428/Pragyan2428/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 🌍 Open Source Journey
-
-## GSSoC 2026 Contributor
-
-🚀 Open Source Track
-
-🤖 AI & Agent Track
-
-💡 Learning Through Collaboration
-
-🌎 Contributing to Community Projects
-
----
-
-# 💼 Experience
-
-| Role | Organization | Timeline |
-|--------|------------|----------|
-| 🚀 Full Stack Intern | YHills | Jun 2026 – Present |
-| 🌍 Open Source Contributor | GSSoC 2026 | Present |
-| 🎬 Team Lead (Video) | K-1000 KIIT | Present |
-| 🎨 Creative Team Member | USC.KIIT | 2025 |
-| 🎨 Creative Intern | Faxis | 2025 |
-| 📢 Campus Ambassador | Wipro | 2024 |
-| 📢 Campus Ambassador | SmartED | 2024 |
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|----------|-------------|--------|
-| 🌟 Project One | AI Powered Application | React • Node • MongoDB |
-| 🌟 Project Two | Full Stack Platform | MERN |
-| 🌟 Project Three | Cloud Based Solution | AWS • PostgreSQL |
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- [x] Start Open Source
-- [x] Join GSSoC
-- [x] Full Stack Internship
-- [ ] 500+ GitHub Contributions
-- [ ] Hackathon Winner
-- [ ] AWS Certification
-- [ ] 1000+ GitHub Followers
-
----
-
-# 🏅 Certifications
-
-☕ Learn Java
-
-🐍 Learn Python Programming
-
-🤖 AI Tools & ChatGPT Workshop
-
-☁️ AWS From Zero To Cloud
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
+<br>
 
 <a href="https://www.linkedin.com/in/pragyansinghkiit/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Pragyan2428">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.instagram.com/pragyansingh_2428/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:mithusingh3146@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Pragyan2428">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ---
 
-# 💭 Random Dev Quote
+## About Me
+
+I am a B.Tech student in **Electronics & Computer Science at KIIT University (2024–2028)** with a strong interest in software engineering, full-stack development, cloud technologies, and open-source collaboration.
+
+Currently:
+
+- Full Stack Web Development Intern at **YHills**
+- Contributor at **GirlScript Summer of Code 2026**
+- Team Lead (Video) at **K-1000, KIIT**
+- Exploring scalable web systems, cloud infrastructure, and AI-powered applications
+
+---
+
+## Technical Skills
+
+### Languages
+
+`Java` `Python` `JavaScript` `SQL`
+
+### Frontend
+
+`React.js` `HTML5` `CSS3` `Tailwind CSS`
+
+### Backend
+
+`Node.js` `Express.js`
+
+### Databases
+
+`MongoDB` `PostgreSQL`
+
+### Cloud & Tools
+
+`AWS` `Git` `GitHub` `Postman` `VS Code`
+
+---
+
+## Experience
+
+### Full Stack Web Development Intern
+**YHills** | June 2026 – Present
+
+- Developing responsive web applications
+- Working on frontend and backend integrations
+- Collaborating within agile development workflows
+
+### Open Source Contributor
+**GirlScript Summer of Code 2026**
+
+- Contributing to open-source repositories
+- Working across development and AI/Agent tracks
+- Collaborating with maintainers and contributors
+
+### Team Lead – Video
+**K-1000, KIIT**
+
+- Leading creative production workflows
+- Managing content strategy and execution
+
+---
+
+## Featured Projects
+
+### Project Name
+
+Brief project description.
+
+**Tech Stack:** React • Node.js • MongoDB
+
+- Live Demo
+- Source Code
+
+---
+
+### Project Name
+
+Brief project description.
+
+**Tech Stack:** Java • PostgreSQL
+
+- Live Demo
+- Source Code
+
+---
+
+## Open Source
+
+### GirlScript Summer of Code 2026
+
+- Active Contributor
+- Open Source Track
+- AI & Agents Track
+
+Contributions focus on learning collaborative software development and improving real-world projects.
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pragyan2428&show_icons=true&theme=default&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pragyan2428&theme=default&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyan2428&layout=compact&hide_border=true"/>
 
 </div>
 
 ---
 
+## Certifications
+
+- Learn Java
+- Learn Python Programming
+- AI Tools & ChatGPT Workshop (be10x)
+- AWS from Zero to Cloud Workshop
+
+---
+
+## Education
+
+### KIIT University
+**B.Tech – Electronics & Computer Science**
+2024 – 2028
+
+---
+
+## Connect
+
+- LinkedIn: www.linkedin.com/in/pragyansinghkiit
+- GitHub: github.com/Pragyan2428
+- Email: mithusingh3146@gmail.com
+
+---
+
 <div align="center">
 
-## ⚡ "Code. Build. Learn. Repeat."
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00D9FF&center=true&width=700&lines=Open+Source+Enthusiast;Full+Stack+Developer;Future+Software+Engineer;Always+Building..." />
+*"Consistency compounds. Build, learn, and contribute every day."*
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0E75B6,100:6A5ACD"/>

@@ -159,7 +159,7 @@ Brief description of your project.
 <div align="center">
 
 <img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=Pragyan2428&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
+src="https://github-stats-extended.vercel.app/api?username=Pragyan2428&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
 <img width="49%"
 src="https://streak-stats.demolab.com?user=Pragyan2428&hide_border=true"/>
@@ -171,7 +171,7 @@ src="https://streak-stats.demolab.com?user=Pragyan2428&hide_border=true"/>
 <div align="center">
 
 <img width="40%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragyan2428&layout=compact&hide_border=true"/>
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pragyan2428&layout=compact&hide_border=true"/>
 
 </div>
 

@@ -162,7 +162,7 @@ Brief description of your project.
 src="https://github-readme-stats.vercel.app/api?username=Pragyan2428&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
 <img width="49%"
-src="https://github-readme-streak-stats.herokuapp.com?user=Pragyan2428&hide_border=true"/>
+src="https://streak-stats.demolab.com?user=Pragyan2428&hide_border=true"/>
 
 </div>
 
@@ -190,7 +190,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Pragyan2428&
 
 <div align="center">
 
-![Snake animation](https://github.com/Pragyan2428/Pragyan2428/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Pragyan2428/Pragyan2428/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 

@@ -169,9 +169,18 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pragyan242
 <div align="center">
 
 <img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Pragyan2428&bg_color=ffffff&color=0E75B6&line=0E75B6&point=4F46E5&area=true&hide_border=true"/>
+src="https://ghchart.rshah.org/0E75B6/Pragyan2428"
+alt="Pragyan Singh's GitHub contribution heatmap"/>
 
 </div>
+
+<!--
+  Swapped from github-readme-activity-graph.vercel.app to ghchart.rshah.org.
+  ghchart renders directly from GitHub's own contribution data with a much
+  thinner caching layer, so it reflects new commits noticeably faster than
+  the old activity-graph widget did. It renders as a heatmap grid (same
+  style as GitHub's native graph) rather than a line chart.
+-->
 
 ---
 

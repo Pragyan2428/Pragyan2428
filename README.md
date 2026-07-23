@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh6dXN4NW1lcTV1MGlwdDF4bmxzbzU1Z2JjaWt0MXV3Z3ZwdjlwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh6dXN4NW1lcTV1MGlwdDF4bmxzbzU1Z2JjaWt0MXV3Z3ZwdjlwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
 
 ```yaml
 Name: Pragyan Singh
@@ -116,30 +116,35 @@ AI-powered platform that analyzes resumes and provides actionable feedback.
 
 **Tech Stack:** React • Node.js • MongoDB
 
-- 🔗 Live Demo
-- 🔗 Source Code
+- 🔗 [Live Demo](https://your-live-demo-url.com) <!-- TODO: replace with real deployed URL -->
+- 🔗 [Source Code](https://github.com/Pragyan2428/ai-resume-analyzer) <!-- TODO: replace with real repo URL -->
 
----
+<!--
+  TODO: The two project blocks below are unfilled template placeholders.
+  Replace the title, description, tech stack, and links with real project
+  details before this README goes live — as-is they'll look unfinished
+  to anyone viewing the profile.
+-->
 
-### 🌟 Project Name
+### 🌟 [Add your second project title]
 
-Brief description of your project.
+[Add a one–two sentence description of what this project does and the problem it solves.]
 
 **Tech Stack:** React • Express • PostgreSQL
 
-- 🔗 Live Demo
-- 🔗 Source Code
+- 🔗 [Live Demo](#) <!-- TODO: add link -->
+- 🔗 [Source Code](#) <!-- TODO: add link -->
 
 ---
 
-### 🌟 Project Name
+### 🌟 [Add your third project title]
 
-Brief description of your project.
+[Add a one–two sentence description of what this project does and the problem it solves.]
 
 **Tech Stack:** Java • AWS • PostgreSQL
 
-- 🔗 Live Demo
-- 🔗 Source Code
+- 🔗 [Live Demo](#) <!-- TODO: add link -->
+- 🔗 [Source Code](#) <!-- TODO: add link -->
 
 ---
 
@@ -187,6 +192,13 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Pragyan2428&
 ---
 
 ## 🐍 Contribution Snake
+
+<!--
+  NOTE: This image only renders if a GitHub Actions workflow (e.g. platane/snk)
+  is set up in the Pragyan2428/Pragyan2428 profile repo to generate and push
+  github-contribution-grid-snake-dark.svg to the "output" branch. If that
+  workflow isn't already configured there, this image will show as broken.
+-->
 
 <div align="center">
 

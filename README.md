@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,25,30&text=Pragyan%20Singh&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1200&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Electronics+%26+Computer+Science+Undergraduate;Open+Source+Contributor;GSSoC+'26+Contributor;Building+Scalable+Digital+Solutions;Learning+%E2%80%A2+Building+%E2%80%A2+Contributing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1600&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Electronics+%26+Computer+Science+Undergraduate;Open+Source+Contributor;GSSoC+'26+Contributor;Building+Scalable+Digital+Solutions;Learning+%E2%80%A2+Building+%E2%80%A2+Contributing" />
 
 <br>
 
@@ -151,7 +151,9 @@ A personal developer productivity dashboard to track learning progress, projects
 src="https://github-stats-extended.vercel.app/api?username=Pragyan2428&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
 <img width="49%"
-src="https://streak-stats.demolab.com?user=Pragyan2428&hide_border=true"/>
+src="https://github-readme-streak-stats-eight.vercel.app?user=Pragyan2428&hide_border=true"/>
+<!-- Swapped from streak-stats.demolab.com, which has a known history of
+     intermittent outages, to its Vercel-hosted mirror for reliability. -->
 
 </div>
 
@@ -247,7 +249,7 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 
 ## 💡 Developer Philosophy
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1200&color=FF6B35&center=true&vCenter=true&width=700&lines=Code+with+Purpose;Build+for+Impact;Contribute+to+Open+Source;Keep+Learning+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1600&color=FF6B35&center=true&vCenter=true&width=700&lines=Code+with+Purpose;Build+for+Impact;Contribute+to+Open+Source;Keep+Learning+Every+Day" />
 
 ### ⭐ Building solutions, learning continuously, and contributing to the community.
 

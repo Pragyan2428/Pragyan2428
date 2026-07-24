@@ -30,7 +30,9 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTh6dXN4NW1lcTV1MGlwdDF4bmxzbzU1Z2JjaWt0MXV3Z3ZwdjlwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
+<img align="right" width="320" src="https://images.pexels.com/photos/6804595/pexels-photo-6804595.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Programmer working at a dual-monitor desk">
+<!-- Photo by cottonbro studio, free to use via Pexels License (pexels.com/license) -->
+
 
 ```yaml
 Name: Pragyan Singh

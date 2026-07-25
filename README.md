@@ -30,8 +30,8 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5pYWtueHA0YjFjYTFvdGpkZG5pOGZ6MzUwOWgwcDVsbjVzN2t6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Screen closeup of code running">
-<!-- "hack coding" GIF by Matthew Butler, via GIPHY -->
+<img align="right" width="320" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5pYWtueHA0YjFjYTFvdGpkZG5pOGZ6MzUwOWgwcDVsbjVzN2t6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rJsMvyk7AHHiW9qKLM/giphy.gif" alt="Animated illustration of a software developer coding">
+<!-- "Coding Software Developer" GIF by Perspectief, via GIPHY -->
 
 
 ```yaml

@@ -30,8 +30,8 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="320" src="https://images.pexels.com/photos/6804595/pexels-photo-6804595.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Programmer working at a dual-monitor desk">
-<!-- Photo by cottonbro studio, free to use via Pexels License (pexels.com/license) -->
+<img align="right" width="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5pYWtueHA0YjFjYTFvdGpkZG5pOGZ6MzUwOWgwcDVsbjVzN2t6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Screen closeup of code running">
+<!-- "hack coding" GIF by Matthew Butler, via GIPHY -->
 
 
 ```yaml

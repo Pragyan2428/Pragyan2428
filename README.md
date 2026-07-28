@@ -36,36 +36,37 @@
 <img align="right" width="320" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5pYWtueHA0YjFjYTFvdGpkZG5pOGZ6MzUwOWgwcDVsbjVzN2t6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rJsMvyk7AHHiW9qKLM/giphy.gif" alt="Animated illustration of a software developer coding">
 <!-- "Coding Software Developer" GIF by Perspectief, via GIPHY -->
 
-
-```yaml
-Name: Pragyan Singh
-
-Education:
-  Degree: B.Tech Electronics & Computer Science
-  University: KIIT University
-  Duration: 2024 – 2028
-
-Current Roles:
-  - Full Stack Web Developer Intern @ YHills
-  - Open Source Contributor @ GSSoC '26
-  - Team Lead (Video) @ K-1000 KIIT
-
-Interests:
-  - Full Stack Development
-  - Open Source
-  - Cloud Technologies
-  - AI & Agentic Systems
-
-Location:
-  - Kanpur, Uttar Pradesh, India
-```
-
-- Building real-world web applications
-- Contributing to open-source projects
-- Exploring cloud and scalable architectures
-- Continuously learning modern technologies
+> ```yaml
+> Name: Pragyan Singh
+>
+> Education:
+>   Degree: B.Tech Electronics & Computer Science
+>   University: KIIT University
+>   Duration: 2024 – 2028
+>
+> Current Roles:
+>   - Full Stack Web Developer Intern @ YHills
+>   - Open Source Contributor @ GSSoC '26
+>   - Team Lead (Video) @ K-1000 KIIT
+>
+> Interests:
+>   - Full Stack Development
+>   - Open Source
+>   - Cloud Technologies
+>   - AI & Agentic Systems
+>
+> Location:
+>   - Kanpur, Uttar Pradesh, India
+> ```
+>
+> - Building real-world web applications
+> - Contributing to open-source projects
+> - Exploring cloud and scalable architectures
+> - Continuously learning modern technologies
 
 <br clear="right"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=6&color=gradient&customColorList=24,20,12"/>
 
 ---
 
@@ -76,26 +77,30 @@ Location:
 
 <div align="center">
 
-### Languages
+> ### Languages
+>
+> <img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark" />
+>
+> ### Frontend
+>
+> <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs&theme=dark" />
+>
+> ### Backend
+>
+> <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+>
+> ### Database
+>
+> <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" />
+>
+> ### Cloud & Tools
+>
+> <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,vercel&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark" />
+</div>
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs&theme=dark" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" />
-
-### Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode,vercel&theme=dark" />
-
+<div align="center">
+<img width="80%" src="https://capsule-render.vercel.app/api?type=rounded&height=6&color=gradient&customColorList=25,24,20"/>
 </div>
 
 ---
@@ -105,17 +110,19 @@ Location:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Where+I+have+put+in+the+work" />
 </div>
 
-| Position | Organization | Duration |
-|-----------|-------------|------------|
-| Full Stack Web Development Intern | YHills | Jun 2026 – Present |
-| Open Source Contributor | GSSoC 2026 | Jun 2026 – Present |
-| Team Lead – Video | K-1000, KIIT | Mar 2026 – Present |
-| Assistant Lead – Video | K-1000, KIIT | Jan 2026 – Feb 2026 |
-| Video Editor | K-1000, KIIT | Aug 2025 – Dec 2025 |
-| Creative Team Member | USC.KIIT | Aug 2025 – Oct 2025 |
-| Creative Department Intern | Faxis | Jul 2025 – Oct 2025 |
-| Campus Ambassador | Wipro | Aug 2024 – Oct 2024 |
-| Campus Ambassador | SmartED Innovations | Jul 2024 – Sep 2024 |
+> | Position | Organization | Duration |
+> |-----------|-------------|------------|
+> | Full Stack Web Development Intern | YHills | Jun 2026 – Present |
+> | Open Source Contributor | GSSoC 2026 | Jun 2026 – Present |
+> | Team Lead – Video | K-1000, KIIT | Mar 2026 – Present |
+> | Assistant Lead – Video | K-1000, KIIT | Jan 2026 – Feb 2026 |
+> | Video Editor | K-1000, KIIT | Aug 2025 – Dec 2025 |
+> | Creative Team Member | USC.KIIT | Aug 2025 – Oct 2025 |
+> | Creative Department Intern | Faxis | Jul 2025 – Oct 2025 |
+> | Campus Ambassador | Wipro | Aug 2024 – Oct 2024 |
+> | Campus Ambassador | SmartED Innovations | Jul 2024 – Sep 2024 |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=6&color=gradient&customColorList=30,25,24"/>
 
 ---
 
@@ -124,25 +131,25 @@ Location:
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Things+I+have+shipped+and+kept+building" />
 </div>
 
-### NetInsight
-
-A modern network analytics & security visualization dashboard — showcases interactive dashboard design, workflow presentation, API documentation, and responsive frontend UI built with HTML5, CSS3, JavaScript, and Tailwind CSS.
-
-**Tech Stack:** HTML5 • CSS3 • JavaScript • Tailwind CSS
-
-- [Source Code](https://github.com/Pragyan2428/NetInsight)
+> ### NetInsight
+>
+> A modern network analytics & security visualization dashboard — showcases interactive dashboard design, workflow presentation, API documentation, and responsive frontend UI built with HTML5, CSS3, JavaScript, and Tailwind CSS.
+>
+> **Tech Stack:** HTML5 • CSS3 • JavaScript • Tailwind CSS
+>
+> - [Source Code](https://github.com/Pragyan2428/NetInsight)
 <!-- TODO: add a Live Demo link here once it's deployed (e.g. via GitHub Pages or Vercel) -->
 
----
+> ### Pragyan's Dev Journey
+>
+> A personal developer productivity dashboard to track learning progress, projects, and daily coding habits — includes a Pomodoro-style focus timer, skills tracker, and a six-month full-stack learning roadmap. Runs entirely in the browser using Local Storage.
+>
+> **Tech Stack:** HTML5 • CSS3 • JavaScript • Local Storage API
+>
+> - [Live Demo](https://Pragyan2428.github.io/pragyan-dev-journey/)
+> - [Source Code](https://github.com/Pragyan2428/pragyan-dev-journey)
 
-### Pragyan's Dev Journey
-
-A personal developer productivity dashboard to track learning progress, projects, and daily coding habits — includes a Pomodoro-style focus timer, skills tracker, and a six-month full-stack learning roadmap. Runs entirely in the browser using Local Storage.
-
-**Tech Stack:** HTML5 • CSS3 • JavaScript • Local Storage API
-
-- [Live Demo](https://Pragyan2428.github.io/pragyan-dev-journey/)
-- [Source Code](https://github.com/Pragyan2428/pragyan-dev-journey)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=6&color=gradient&customColorList=25,20,12"/>
 
 ---
 
@@ -151,12 +158,14 @@ A personal developer productivity dashboard to track learning progress, projects
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Giving+back+to+the+code+I+use" />
 </div>
 
-### GSSoC 2026
+> ### GSSoC 2026
+>
+> - Open Source Track Contributor
+> - AI & Agents Track Contributor
+> - Collaborative Development
+> - Community Engagement
 
-- Open Source Track Contributor
-- AI & Agents Track Contributor
-- Collaborative Development
-- Community Engagement
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=6&color=gradient&customColorList=30,25,20"/>
 
 ---
 
@@ -204,6 +213,8 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
   style as GitHub's native graph) rather than a line chart.
 -->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=6&color=gradient&customColorList=30,24,12"/>
+
 ---
 
 <div align="center">
@@ -224,6 +235,10 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 
 </div>
 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=6&color=gradient&customColorList=12,30,24"/>
+</div>
+
 ---
 
 <div align="center">
@@ -231,10 +246,12 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Where+the+foundation+got+built" />
 </div>
 
-| Degree | Institution | Duration |
-|----------|------------|------------|
-| B.Tech – Electronics & Computer Science | KIIT University | 2024 – 2028 |
-| Secondary Education | Delhi Public School | 2017 – 2022 |
+> | Degree | Institution | Duration |
+> |----------|------------|------------|
+> | B.Tech – Electronics & Computer Science | KIIT University | 2024 – 2028 |
+> | Secondary Education | Delhi Public School | 2017 – 2022 |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=6&color=gradient&customColorList=25,20,12"/>
 
 ---
 
@@ -243,10 +260,12 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Skills+I+put+a+stamp+on" />
 </div>
 
-- Learn Java
-- Learn Python Programming
-- AI Tools & ChatGPT Workshop (be10x)
-- AWS from Zero to Cloud Workshop
+> - Learn Java
+> - Learn Python Programming
+> - AI Tools & ChatGPT Workshop (be10x)
+> - AWS from Zero to Cloud Workshop
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=6&color=gradient&customColorList=20,25,30"/>
 
 ---
 
@@ -275,6 +294,10 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 
 </div>
 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=6&color=gradient&customColorList=24,25,12"/>
+</div>
+
 ---
 
 <div align="center">
@@ -283,7 +306,9 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1600&color=FF6B35&center=true&vCenter=true&width=700&lines=Code+with+Purpose;Build+for+Impact;Contribute+to+Open+Source;Keep+Learning+Every+Day" />
 
-### Building solutions, learning continuously, and contributing to the community.
+> ### Building solutions, learning continuously, and contributing to the community.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=6&color=gradient&customColorList=12,24,30"/>
 
 </div>
 

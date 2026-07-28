@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24,30&text=Pragyan%20Singh&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1600&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Electronics+%26+Computer+Science+Undergraduate;Open+Source+Contributor;GSSoC+'26+Contributor;Building+Scalable+Digital+Solutions;Learning+%E2%80%A2+Building+%E2%80%A2+Contributing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1600&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Electronics+%26+Computer+Science+Undergraduate;Open+Source+Contributor;GSSoC+%2726+Contributor;Building+Scalable+Digital+Solutions;Learning+%E2%80%A2+Building+%E2%80%A2+Contributing" />
 
 <br>
 
@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=90&color=gradient&customColorList=12,20,24&text=About%20Me&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=gradient&customColorList=12,20,24&text=About%20Me&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Curious+by+default;Learning+in+public" />
 </div>
 
@@ -70,7 +70,7 @@ Location:
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=90&color=gradient&customColorList=20,24,25&text=Tech%20Stack&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=gradient&customColorList=20,24,25&text=Tech%20Stack&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Tools+I+reach+for+every+day" />
 </div>
 
@@ -101,8 +101,8 @@ Location:
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=90&color=gradient&customColorList=24,25,30&text=Experience&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Where+I've+been+putting+in+the+work" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=gradient&customColorList=24,25,30&text=Experience&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Where+I+have+put+in+the+work" />
 </div>
 
 | Position | Organization | Duration |
@@ -120,8 +120,8 @@ Location:
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=90&color=gradient&customColorList=12,20,25&text=Featured%20Projects&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Things+I've+shipped+and+kept+building" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=gradient&customColorList=12,20,25&text=Featured%20Projects&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Things+I+have+shipped+and+kept+building" />
 </div>
 
 ### NetInsight
@@ -147,7 +147,7 @@ A personal developer productivity dashboard to track learning progress, projects
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=90&color=gradient&customColorList=20,25,30&text=Open%20Source%20Contributions&fontSize=26&fontColor=ffffff&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=gradient&customColorList=20,25,30&text=Open%20Source%20Contributions&fontSize=26&fontColor=ffffff&fontAlignY=55"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Giving+back+to+the+code+I+use" />
 </div>
 
@@ -161,7 +161,7 @@ A personal developer productivity dashboard to track learning progress, projects
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=90&color=gradient&customColorList=12,24,30&text=GitHub%20Analytics&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=gradient&customColorList=12,24,30&text=GitHub%20Analytics&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=The+numbers+behind+the+commits" />
 </div>
 
@@ -207,7 +207,7 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=90&color=gradient&customColorList=24,30,12&text=Contribution%20Snake&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=gradient&customColorList=24,30,12&text=Contribution%20Snake&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Eating+its+way+through+my+commit+history" />
 </div>
 
@@ -227,7 +227,7 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=90&color=gradient&customColorList=20,12,25&text=Education&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=gradient&customColorList=20,12,25&text=Education&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Where+the+foundation+got+built" />
 </div>
 
@@ -239,7 +239,7 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=90&color=gradient&customColorList=25,30,20&text=Certifications&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=gradient&customColorList=25,30,20&text=Certifications&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Skills+I+put+a+stamp+on" />
 </div>
 
@@ -251,8 +251,8 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=90&color=gradient&customColorList=12,25,24&text=Connect%20With%20Me&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Let's+talk+shop" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=gradient&customColorList=12,25,24&text=Connect%20With%20Me&fontSize=28&fontColor=ffffff&fontAlignY=55"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Always+up+for+a+chat" />
 </div>
 
 <div align="center">
@@ -279,7 +279,7 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=90&color=gradient&customColorList=30,24,12&text=Developer%20Philosophy&fontSize=26&fontColor=ffffff&fontAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=90&color=gradient&customColorList=30,24,12&text=Developer%20Philosophy&fontSize=26&fontColor=ffffff&fontAlignY=55"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1600&color=FF6B35&center=true&vCenter=true&width=700&lines=Code+with+Purpose;Build+for+Impact;Contribute+to+Open+Source;Keep+Learning+Every+Day" />
 

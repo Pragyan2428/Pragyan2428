@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,25,30&text=Pragyan%20Singh&fontSize=55&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24,30&text=Pragyan%20Singh&fontSize=60&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=20"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1600&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Electronics+%26+Computer+Science+Undergraduate;Open+Source+Contributor;GSSoC+'26+Contributor;Building+Scalable+Digital+Solutions;Learning+%E2%80%A2+Building+%E2%80%A2+Contributing" />
 

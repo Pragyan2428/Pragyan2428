@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=280&color=gradient&customColorList=12,20,24,25,30&text=Pragyan%20Singh&fontSize=55&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&customColorList=12,20,24,25,30&text=Pragyan%20Singh&fontSize=48&fontAlignY=32&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=62&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1600&color=0E75B6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Electronics+%26+Computer+Science+Undergraduate;Open+Source+Contributor;GSSoC+'26+Contributor;Building+Scalable+Digital+Solutions;Learning+%E2%80%A2+Building+%E2%80%A2+Contributing" />
 
@@ -28,7 +28,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Man%20technologist/Default/3D/man_technologist_3d_default.png" width="22" valign="middle" alt="developer"/> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="22" valign="middle" alt="developer"/> About Me
 
 <img align="right" width="320" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5pYWtueHA0YjFjYTFvdGpkZG5pOGZ6MzUwOWgwcDVsbjVzN2t6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rJsMvyk7AHHiW9qKLM/giphy.gif" alt="Animated illustration of a software developer coding">
 <!-- "Coding Software Developer" GIF by Perspectief, via GIPHY -->
@@ -57,16 +57,16 @@ Location:
   - Kanpur, Uttar Pradesh, India
 ```
 
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="22" valign="middle" alt="rocket"/> Building real-world web applications
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20with%20meridians/3D/globe_with_meridians_3d.png" width="22" valign="middle" alt="globe"/> Contributing to open-source projects
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Cloud/3D/cloud_3d.png" width="22" valign="middle" alt="cloud"/> Exploring cloud and scalable architectures
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Books/3D/books_3d.png" width="22" valign="middle" alt="books"/> Continuously learning modern technologies
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" valign="middle" alt="rocket"/> Building real-world web applications
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="22" valign="middle" alt="globe"/> Contributing to open-source projects
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="22" valign="middle" alt="cloud"/> Exploring cloud and scalable architectures
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="22" valign="middle" alt="books"/> Continuously learning modern technologies
 
 <br clear="right"/>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/3D/hammer_and_wrench_3d.png" width="22" valign="middle" alt="tools"/> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="22" valign="middle" alt="tools"/> Tech Stack
 
 <div align="center">
 
@@ -94,58 +94,58 @@ Location:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Briefcase/3D/briefcase_3d.png" width="22" valign="middle" alt="briefcase"/> Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22" valign="middle" alt="briefcase"/> Experience
 
 | Position | Organization | Duration |
 |-----------|-------------|------------|
-| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="22" valign="middle" alt="rocket"/> Full Stack Web Development Intern | YHills | Jun 2026 – Present |
-| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20with%20meridians/3D/globe_with_meridians_3d.png" width="22" valign="middle" alt="globe"/> Open Source Contributor | GSSoC 2026 | Jun 2026 – Present |
-| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clapper%20board/3D/clapper_board_3d.png" width="22" valign="middle" alt="clapper"/> Team Lead – Video | K-1000, KIIT | Mar 2026 – Present |
-| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clapper%20board/3D/clapper_board_3d.png" width="22" valign="middle" alt="clapper"/> Assistant Lead – Video | K-1000, KIIT | Jan 2026 – Feb 2026 |
-| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clapper%20board/3D/clapper_board_3d.png" width="22" valign="middle" alt="clapper"/> Video Editor | K-1000, KIIT | Aug 2025 – Dec 2025 |
-| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Artist%20palette/3D/artist_palette_3d.png" width="22" valign="middle" alt="palette"/> Creative Team Member | USC.KIIT | Aug 2025 – Oct 2025 |
-| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Artist%20palette/3D/artist_palette_3d.png" width="22" valign="middle" alt="palette"/> Creative Department Intern | Faxis | Jul 2025 – Oct 2025 |
-| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Loudspeaker/3D/loudspeaker_3d.png" width="22" valign="middle" alt="loudspeaker"/> Campus Ambassador | Wipro | Aug 2024 – Oct 2024 |
-| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Loudspeaker/3D/loudspeaker_3d.png" width="22" valign="middle" alt="loudspeaker"/> Campus Ambassador | SmartED Innovations | Jul 2024 – Sep 2024 |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" valign="middle" alt="rocket"/> Full Stack Web Development Intern | YHills | Jun 2026 – Present |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="22" valign="middle" alt="globe"/> Open Source Contributor | GSSoC 2026 | Jun 2026 – Present |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="22" valign="middle" alt="clapper"/> Team Lead – Video | K-1000, KIIT | Mar 2026 – Present |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="22" valign="middle" alt="clapper"/> Assistant Lead – Video | K-1000, KIIT | Jan 2026 – Feb 2026 |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="22" valign="middle" alt="clapper"/> Video Editor | K-1000, KIIT | Aug 2025 – Dec 2025 |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="22" valign="middle" alt="palette"/> Creative Team Member | USC.KIIT | Aug 2025 – Oct 2025 |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="22" valign="middle" alt="palette"/> Creative Department Intern | Faxis | Jul 2025 – Oct 2025 |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="22" valign="middle" alt="loudspeaker"/> Campus Ambassador | Wipro | Aug 2024 – Oct 2024 |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Loudspeaker.png" width="22" valign="middle" alt="loudspeaker"/> Campus Ambassador | SmartED Innovations | Jul 2024 – Sep 2024 |
 
 ---
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="22" valign="middle" alt="rocket"/> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" valign="middle" alt="rocket"/> Featured Projects
 
-### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Glowing%20star/3D/glowing_star_3d.png" width="22" valign="middle" alt="star"/> NetInsight
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="22" valign="middle" alt="star"/> NetInsight
 
 A modern network analytics & security visualization dashboard — showcases interactive dashboard design, workflow presentation, API documentation, and responsive frontend UI built with HTML5, CSS3, JavaScript, and Tailwind CSS.
 
 **Tech Stack:** HTML5 • CSS3 • JavaScript • Tailwind CSS
 
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Link/3D/link_3d.png" width="16" valign="middle" alt="link"/> [Source Code](https://github.com/Pragyan2428/NetInsight)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="16" valign="middle" alt="link"/> [Source Code](https://github.com/Pragyan2428/NetInsight)
 <!-- TODO: add a Live Demo link here once it's deployed (e.g. via GitHub Pages or Vercel) -->
 
 ---
 
-### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Glowing%20star/3D/glowing_star_3d.png" width="22" valign="middle" alt="star"/> Pragyan's Dev Journey
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="22" valign="middle" alt="star"/> Pragyan's Dev Journey
 
 A personal developer productivity dashboard to track learning progress, projects, and daily coding habits — includes a Pomodoro-style focus timer, skills tracker, and a six-month full-stack learning roadmap. Runs entirely in the browser using Local Storage.
 
 **Tech Stack:** HTML5 • CSS3 • JavaScript • Local Storage API
 
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Link/3D/link_3d.png" width="16" valign="middle" alt="link"/> [Live Demo](https://Pragyan2428.github.io/pragyan-dev-journey/)
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Link/3D/link_3d.png" width="16" valign="middle" alt="link"/> [Source Code](https://github.com/Pragyan2428/pragyan-dev-journey)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="16" valign="middle" alt="link"/> [Live Demo](https://Pragyan2428.github.io/pragyan-dev-journey/)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="16" valign="middle" alt="link"/> [Source Code](https://github.com/Pragyan2428/pragyan-dev-journey)
 
 ---
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20europe-africa/3D/globe_showing_europe-africa_3d.png" width="22" valign="middle" alt="globe"/> Open Source Contributions
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="22" valign="middle" alt="globe"/> Open Source Contributions
 
 ### GSSoC 2026
 
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Check%20mark%20button/3D/check_mark_button_3d.png" width="22" valign="middle" alt="check"/> Open Source Track Contributor
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Check%20mark%20button/3D/check_mark_button_3d.png" width="22" valign="middle" alt="check"/> AI & Agents Track Contributor
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Check%20mark%20button/3D/check_mark_button_3d.png" width="22" valign="middle" alt="check"/> Collaborative Development
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Check%20mark%20button/3D/check_mark_button_3d.png" width="22" valign="middle" alt="check"/> Community Engagement
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="22" valign="middle" alt="check"/> Open Source Track Contributor
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="22" valign="middle" alt="check"/> AI & Agents Track Contributor
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="22" valign="middle" alt="check"/> Collaborative Development
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="22" valign="middle" alt="check"/> Community Engagement
 
 ---
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" width="22" valign="middle" alt="chart"/> GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22" valign="middle" alt="chart"/> GitHub Analytics
 
 <div align="center">
 
@@ -197,7 +197,7 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Snake/3D/snake_3d.png" width="22" valign="middle" alt="snake"/> Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="22" valign="middle" alt="snake"/> Contribution Snake
 
 <!--
   NOTE: This image only renders if a GitHub Actions workflow (e.g. platane/snk)
@@ -214,7 +214,7 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Graduation%20cap/3D/graduation_cap_3d.png" width="22" valign="middle" alt="graduation cap"/> Education
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22" valign="middle" alt="graduation cap"/> Education
 
 | Degree | Institution | Duration |
 |----------|------------|------------|
@@ -223,16 +223,16 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Sports%20medal/3D/sports_medal_3d.png" width="22" valign="middle" alt="medal"/> Certifications
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" width="22" valign="middle" alt="medal"/> Certifications
 
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hot%20beverage/3D/hot_beverage_3d.png" width="22" valign="middle" alt="coffee"/> Learn Java
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Snake/3D/snake_3d.png" width="22" valign="middle" alt="snake"/> Learn Python Programming
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Robot/3D/robot_3d.png" width="22" valign="middle" alt="robot"/> AI Tools & ChatGPT Workshop (be10x)
-- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Cloud/3D/cloud_3d.png" width="22" valign="middle" alt="cloud"/> AWS from Zero to Cloud Workshop
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="22" valign="middle" alt="coffee"/> Learn Java
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="22" valign="middle" alt="snake"/> Learn Python Programming
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" valign="middle" alt="robot"/> AI Tools & ChatGPT Workshop (be10x)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="22" valign="middle" alt="cloud"/> AWS from Zero to Cloud Workshop
 
 ---
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20with%20meridians/3D/globe_with_meridians_3d.png" width="22" valign="middle" alt="globe"/> Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="22" valign="middle" alt="globe"/> Connect With Me
 
 <div align="center">
 
@@ -258,11 +258,11 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Light%20bulb/3D/light_bulb_3d.png" width="22" valign="middle" alt="light bulb"/> Developer Philosophy
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="22" valign="middle" alt="light bulb"/> Developer Philosophy
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1600&color=FF6B35&center=true&vCenter=true&width=700&lines=Code+with+Purpose;Build+for+Impact;Contribute+to+Open+Source;Keep+Learning+Every+Day" />
 
-### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Star/3D/star_3d.png" width="22" valign="middle" alt="star"/> Building solutions, learning continuously, and contributing to the community.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="22" valign="middle" alt="star"/> Building solutions, learning continuously, and contributing to the community.
 
 </div>
 

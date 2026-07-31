@@ -28,7 +28,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Man%20technologist/Default/3D/man_technologist_3d_default.png" width="22" valign="middle" alt="developer"/> About Me
 
 <img align="right" width="320" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG5pYWtueHA0YjFjYTFvdGpkZG5pOGZ6MzUwOWgwcDVsbjVzN2t6ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rJsMvyk7AHHiW9qKLM/giphy.gif" alt="Animated illustration of a software developer coding">
 <!-- "Coding Software Developer" GIF by Perspectief, via GIPHY -->
@@ -57,16 +57,16 @@ Location:
   - Kanpur, Uttar Pradesh, India
 ```
 
-- 🚀 Building real-world web applications
-- 🌐 Contributing to open-source projects
-- ☁️ Exploring cloud and scalable architectures
-- 📚 Continuously learning modern technologies
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="22" valign="middle" alt="rocket"/> Building real-world web applications
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20with%20meridians/3D/globe_with_meridians_3d.png" width="22" valign="middle" alt="globe"/> Contributing to open-source projects
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Cloud/3D/cloud_3d.png" width="22" valign="middle" alt="cloud"/> Exploring cloud and scalable architectures
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Books/3D/books_3d.png" width="22" valign="middle" alt="books"/> Continuously learning modern technologies
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hammer%20and%20wrench/3D/hammer_and_wrench_3d.png" width="22" valign="middle" alt="tools"/> Tech Stack
 
 <div align="center">
 
@@ -94,58 +94,58 @@ Location:
 
 ---
 
-## 💼 Experience
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Briefcase/3D/briefcase_3d.png" width="22" valign="middle" alt="briefcase"/> Experience
 
 | Position | Organization | Duration |
 |-----------|-------------|------------|
-| 🚀 Full Stack Web Development Intern | YHills | Jun 2026 – Present |
-| 🌐 Open Source Contributor | GSSoC 2026 | Jun 2026 – Present |
-| 🎬 Team Lead – Video | K-1000, KIIT | Mar 2026 – Present |
-| 🎬 Assistant Lead – Video | K-1000, KIIT | Jan 2026 – Feb 2026 |
-| 🎬 Video Editor | K-1000, KIIT | Aug 2025 – Dec 2025 |
-| 🎨 Creative Team Member | USC.KIIT | Aug 2025 – Oct 2025 |
-| 🎨 Creative Department Intern | Faxis | Jul 2025 – Oct 2025 |
-| 📢 Campus Ambassador | Wipro | Aug 2024 – Oct 2024 |
-| 📢 Campus Ambassador | SmartED Innovations | Jul 2024 – Sep 2024 |
+| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="22" valign="middle" alt="rocket"/> Full Stack Web Development Intern | YHills | Jun 2026 – Present |
+| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20with%20meridians/3D/globe_with_meridians_3d.png" width="22" valign="middle" alt="globe"/> Open Source Contributor | GSSoC 2026 | Jun 2026 – Present |
+| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clapper%20board/3D/clapper_board_3d.png" width="22" valign="middle" alt="clapper"/> Team Lead – Video | K-1000, KIIT | Mar 2026 – Present |
+| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clapper%20board/3D/clapper_board_3d.png" width="22" valign="middle" alt="clapper"/> Assistant Lead – Video | K-1000, KIIT | Jan 2026 – Feb 2026 |
+| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Clapper%20board/3D/clapper_board_3d.png" width="22" valign="middle" alt="clapper"/> Video Editor | K-1000, KIIT | Aug 2025 – Dec 2025 |
+| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Artist%20palette/3D/artist_palette_3d.png" width="22" valign="middle" alt="palette"/> Creative Team Member | USC.KIIT | Aug 2025 – Oct 2025 |
+| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Artist%20palette/3D/artist_palette_3d.png" width="22" valign="middle" alt="palette"/> Creative Department Intern | Faxis | Jul 2025 – Oct 2025 |
+| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Loudspeaker/3D/loudspeaker_3d.png" width="22" valign="middle" alt="loudspeaker"/> Campus Ambassador | Wipro | Aug 2024 – Oct 2024 |
+| <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Loudspeaker/3D/loudspeaker_3d.png" width="22" valign="middle" alt="loudspeaker"/> Campus Ambassador | SmartED Innovations | Jul 2024 – Sep 2024 |
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="22" valign="middle" alt="rocket"/> Featured Projects
 
-### 🌟 NetInsight
+### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Glowing%20star/3D/glowing_star_3d.png" width="22" valign="middle" alt="star"/> NetInsight
 
 A modern network analytics & security visualization dashboard — showcases interactive dashboard design, workflow presentation, API documentation, and responsive frontend UI built with HTML5, CSS3, JavaScript, and Tailwind CSS.
 
 **Tech Stack:** HTML5 • CSS3 • JavaScript • Tailwind CSS
 
-- 🔗 [Source Code](https://github.com/Pragyan2428/NetInsight)
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Link/3D/link_3d.png" width="16" valign="middle" alt="link"/> [Source Code](https://github.com/Pragyan2428/NetInsight)
 <!-- TODO: add a Live Demo link here once it's deployed (e.g. via GitHub Pages or Vercel) -->
 
 ---
 
-### 🌟 Pragyan's Dev Journey
+### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Glowing%20star/3D/glowing_star_3d.png" width="22" valign="middle" alt="star"/> Pragyan's Dev Journey
 
 A personal developer productivity dashboard to track learning progress, projects, and daily coding habits — includes a Pomodoro-style focus timer, skills tracker, and a six-month full-stack learning roadmap. Runs entirely in the browser using Local Storage.
 
 **Tech Stack:** HTML5 • CSS3 • JavaScript • Local Storage API
 
-- 🔗 [Live Demo](https://Pragyan2428.github.io/pragyan-dev-journey/)
-- 🔗 [Source Code](https://github.com/Pragyan2428/pragyan-dev-journey)
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Link/3D/link_3d.png" width="16" valign="middle" alt="link"/> [Live Demo](https://Pragyan2428.github.io/pragyan-dev-journey/)
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Link/3D/link_3d.png" width="16" valign="middle" alt="link"/> [Source Code](https://github.com/Pragyan2428/pragyan-dev-journey)
 
 ---
 
-## 🌍 Open Source Contributions
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20showing%20europe-africa/3D/globe_showing_europe-africa_3d.png" width="22" valign="middle" alt="globe"/> Open Source Contributions
 
 ### GSSoC 2026
 
-- ✅ Open Source Track Contributor
-- ✅ AI & Agents Track Contributor
-- ✅ Collaborative Development
-- ✅ Community Engagement
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Check%20mark%20button/3D/check_mark_button_3d.png" width="22" valign="middle" alt="check"/> Open Source Track Contributor
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Check%20mark%20button/3D/check_mark_button_3d.png" width="22" valign="middle" alt="check"/> AI & Agents Track Contributor
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Check%20mark%20button/3D/check_mark_button_3d.png" width="22" valign="middle" alt="check"/> Collaborative Development
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Check%20mark%20button/3D/check_mark_button_3d.png" width="22" valign="middle" alt="check"/> Community Engagement
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Bar%20chart/3D/bar_chart_3d.png" width="22" valign="middle" alt="chart"/> GitHub Analytics
 
 <div align="center">
 
@@ -173,22 +173,31 @@ src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pragyan242
 <div align="center">
 
 <img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Pragyan2428&bg_color=ffffff&color=0E75B6&line=0E75B6&point=4F46E5&area=true&hide_border=true"
+alt="Pragyan Singh's Contribution Graph"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%"
 src="https://ghchart.rshah.org/0E75B6/Pragyan2428"
 alt="Pragyan Singh's GitHub contribution heatmap"/>
 
 </div>
 
 <!--
-  Swapped from github-readme-activity-graph.vercel.app to ghchart.rshah.org.
-  ghchart renders directly from GitHub's own contribution data with a much
-  thinner caching layer, so it reflects new commits noticeably faster than
-  the old activity-graph widget did. It renders as a heatmap grid (same
-  style as GitHub's native graph) rather than a line chart.
+  Both graphs are kept here on purpose: the line chart (github-readme-activity-graph)
+  gives a smoother visual trend, while the heatmap (ghchart.rshah.org) pulls with a
+  thinner cache layer and reflects new commits faster. If the line chart shows stale
+  data again, that's this widget's caching lag, not a problem with your commits.
 -->
 
 ---
 
-## 🐍 Contribution Snake
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Snake/3D/snake_3d.png" width="22" valign="middle" alt="snake"/> Contribution Snake
 
 <!--
   NOTE: This image only renders if a GitHub Actions workflow (e.g. platane/snk)
@@ -205,7 +214,7 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 
 ---
 
-## 🎓 Education
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Graduation%20cap/3D/graduation_cap_3d.png" width="22" valign="middle" alt="graduation cap"/> Education
 
 | Degree | Institution | Duration |
 |----------|------------|------------|
@@ -214,16 +223,16 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 
 ---
 
-## 🏅 Certifications
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Sports%20medal/3D/sports_medal_3d.png" width="22" valign="middle" alt="medal"/> Certifications
 
-- ☕ Learn Java
-- 🐍 Learn Python Programming
-- 🤖 AI Tools & ChatGPT Workshop (be10x)
-- ☁️ AWS from Zero to Cloud Workshop
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Hot%20beverage/3D/hot_beverage_3d.png" width="22" valign="middle" alt="coffee"/> Learn Java
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Snake/3D/snake_3d.png" width="22" valign="middle" alt="snake"/> Learn Python Programming
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Robot/3D/robot_3d.png" width="22" valign="middle" alt="robot"/> AI Tools & ChatGPT Workshop (be10x)
+- <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Cloud/3D/cloud_3d.png" width="22" valign="middle" alt="cloud"/> AWS from Zero to Cloud Workshop
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Globe%20with%20meridians/3D/globe_with_meridians_3d.png" width="22" valign="middle" alt="globe"/> Connect With Me
 
 <div align="center">
 
@@ -249,11 +258,11 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 
 <div align="center">
 
-## 💡 Developer Philosophy
+## <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Light%20bulb/3D/light_bulb_3d.png" width="22" valign="middle" alt="light bulb"/> Developer Philosophy
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1600&color=FF6B35&center=true&vCenter=true&width=700&lines=Code+with+Purpose;Build+for+Impact;Contribute+to+Open+Source;Keep+Learning+Every+Day" />
 
-### ⭐ Building solutions, learning continuously, and contributing to the community.
+### <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Star/3D/star_3d.png" width="22" valign="middle" alt="star"/> Building solutions, learning continuously, and contributing to the community.
 
 </div>
 

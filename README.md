@@ -58,7 +58,7 @@ Location:
 ```
 
 - 🚀 Building real-world web applications
-- 🌍 Contributing to open-source projects
+- 🌐 Contributing to open-source projects
 - ☁️ Exploring cloud and scalable architectures
 - 📚 Continuously learning modern technologies
 
@@ -99,7 +99,7 @@ Location:
 | Position | Organization | Duration |
 |-----------|-------------|------------|
 | 🚀 Full Stack Web Development Intern | YHills | Jun 2026 – Present |
-| 🌍 Open Source Contributor | GSSoC 2026 | Jun 2026 – Present |
+| 🌐 Open Source Contributor | GSSoC 2026 | Jun 2026 – Present |
 | 🎬 Team Lead – Video | K-1000, KIIT | Mar 2026 – Present |
 | 🎬 Assistant Lead – Video | K-1000, KIIT | Jan 2026 – Feb 2026 |
 | 🎬 Video Editor | K-1000, KIIT | Aug 2025 – Dec 2025 |

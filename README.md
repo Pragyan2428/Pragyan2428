@@ -271,6 +271,5 @@ alt="Pragyan Singh's GitHub contribution heatmap"/>
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24,25,30"/>
-dnkbksdbcvkjhsdbvksdbvkjbsdkjcvbjsdc
 
 </div>
